@@ -6,18 +6,18 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            OpenSRE
+tagline:          'A collection of DevOps tools'
+description:      'OpenSRE is a plaeholder name for a project that centers around Open Source DevOps tools, with an emphasis on Sources of Truth, and Truth management. The core of the stack is Collins (by tumblr), and a collection of tools for infrastructure management and automation'
+url:              http://opensre.github.io
 paginate:         5
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Dale Hamel'
+  url:            https://github.com/dalehamel
 
 # Custom vars
-version:          1.0.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/OpenSRE/OpenSRE.github.io
