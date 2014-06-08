@@ -37,11 +37,12 @@ def new(title, type)
 
   fname = "#{dateshort}-#{title.downcase.split(' ').join('-')}.markdown"
   header_data = {
-    "title"    => title,
-    "modified" => datelong,
-    "layout"   => type,
-    "tags"     => [],
-    "comments" => true
+    "title"     => title,
+    "modified"  => datelong,
+    "layout"    => type,
+    "tags"      => [],
+    "permalink" => "index.html",
+    "comments"  => true
   }
 
   header = YAML.dump(header_data)

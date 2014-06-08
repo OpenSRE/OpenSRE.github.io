@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            OpenSRE
 tagline:          'A collection of DevOps tools'
-description:      'OpenSRE is a plaeholder name for a project that centers around Open Source DevOps tools, with an emphasis on Sources of Truth, and Truth management. The core of the stack is Collins (by tumblr), and a collection of tools for infrastructure management and automation'
+description:      'OpenSRE is a plaeholder name for a project that centers around Open Source DevOps tools, with an emphasis on Sources of Truth, and Truth management.'
 url:              http://opensre.github.io
 paginate:         5
 
