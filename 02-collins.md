@@ -7,4 +7,4 @@ permalink: "collins.html"
 comments: true
 ---
 
-test
+More details to come on [Shopify's fork of Collins (by tumblr)](https://github.com/Shopify/collins)
