@@ -7,4 +7,4 @@ permalink: "ipxe.html"
 comments: true
 ---
 
-[Fork of iPXE](https://github.com/OpenSRE/ipxe)
+[Fork of iPXE](https://github.com/Shopify/ipxe)
